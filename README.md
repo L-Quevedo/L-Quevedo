@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hola, soy Lucas 👋
 
-<!--
-**L-Quevedo/L-Quevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **estudiante de Programación** y actualmente me estoy formando en **Testing QA**.
 
-Here are some ideas to get you started:
+🔭 **Actualmente:**
+- 🐍 Profundizando en **Python** y su integración con **Bases de Datos**.
+- 🐞 Cursando **Testing QA** (Aseguramiento de Calidad).
+- 💼 Buscando iniciar mi carrera profesional en el **mundo IT**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Mis conocimientos:**
+- **Lenguajes:** Python, SQL y R.
+- **Testing:** QA Manual, Fundamentos de Testing.
+- **Herramientas:** Git, GitHub, VS Code.
+
+⚡ **Sobre mí:**
+Me apasiona la tecnología y la resolución de problemas. Soy una persona proactiva buscando sumarse a un equipo para aportar valor y seguir aprendiendo, con gran interés en desarrollo, datos y soporte técnico.
+
+📫 **Contáctame:**
+- [LinkedIn](https://www.linkedin.com/in/lucas-quevedo-dev/)
+- [Email](mailto:l.m.quevedo@hotmail.com)
