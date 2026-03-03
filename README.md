@@ -28,14 +28,14 @@ Mi background en calidad me da una ventaja natural para roles de QA: ya sé lo q
 
 ## 🚀 Proyectos
 
+### 🧪 [QA Testing Portfolio](https://github.com/L-Quevedo/QA_Testing_Portfolio)
+Testing funcional completo sobre JPetStore: 9 casos de prueba, 3 bugs reportados (1 Alta, 2 Media) y conclusión de no aptitud para producción. Incluye testing de API REST con PokéAPI (Postman) y pruebas de stress con Lighthouse.
+
 ### 🔧 [Automatización con Python & Bash](https://github.com/L-Quevedo)
 Scripts para automatización de tareas: renombrado masivo de archivos, backups y monitoreo de directorios con cron.
 
 ### 🐳 [Entorno Dockerizado](https://github.com/L-Quevedo)
 Deploy de aplicaciones web en Linux usando Docker y docker-compose para orquestar servicios multi-contenedor.
-
-### 🧪 [Suite de Tests con Pytest](https://github.com/L-Quevedo)
-Tests unitarios y de integración en Python. Testing de endpoints REST con Postman: GET, POST, PUT, DELETE.
 
 ---
 
